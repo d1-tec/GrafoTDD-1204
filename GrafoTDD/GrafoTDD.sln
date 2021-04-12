@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoTDD", "GrafoTDD\GrafoTDD.csproj", "{54B55E29-A760-4204-BB08-572CDFBB7A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoTDDTest", "GrafoTDDTest\GrafoTDDTest.csproj", "{E6FBD124-1F85-4AAF-B1CC-1270F02753EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54B55E29-A760-4204-BB08-572CDFBB7A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54B55E29-A760-4204-BB08-572CDFBB7A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54B55E29-A760-4204-BB08-572CDFBB7A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54B55E29-A760-4204-BB08-572CDFBB7A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FBD124-1F85-4AAF-B1CC-1270F02753EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FBD124-1F85-4AAF-B1CC-1270F02753EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FBD124-1F85-4AAF-B1CC-1270F02753EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FBD124-1F85-4AAF-B1CC-1270F02753EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18C5D140-94C4-4E30-ABC3-BE7506F1239A}
+	EndGlobalSection
+EndGlobal
